@@ -1,0 +1,36 @@
+a{
+    padding: 10px 0px 0px 0px;
+    text-decoration: none;
+    color:#FFF;
+    font-variant: small-caps;
+    font-family: AF TOMMY HILFIGER;
+    font-size: 45px;
+}
+.header {
+	border: none;
+	color: none;
+	padding: 0px 0px 0px 70px;
+	height: 30px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 95%;
+	z-index:10;
+	}
+.logo {
+	border: none;
+	float: left;
+	top: 0px;
+	padding: 0px 0px 0px 30px;
+	font-size: 100%;
+	}
+.nav { 
+	display: center;
+	border: none;
+	float: right;
+	padding: 13px 0px 0px 0px;
+	text-align: right;
+	}
+a:hover{
+	color:#cb777a;
+	}
