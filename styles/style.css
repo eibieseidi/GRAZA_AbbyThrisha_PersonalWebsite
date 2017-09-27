@@ -37,6 +37,7 @@ a:hover{
 	}
 .k1 { 
 	background-image: url("img/ambackground.png");
+	margin: 0px 0px 0px 0px;
 
 }
 h2 {
@@ -60,4 +61,9 @@ p{
 	margin-left: 450px;
 	color: white;
 	font-family: Arial;
+}
+.idpic { 
+	float: right;
+	padding: 0px 100px 0px 0px;
+	
 }
