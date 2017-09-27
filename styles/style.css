@@ -72,13 +72,18 @@ p{
 }
 .edimg { 
 	float: left;
-	padding: 110px 0px 0px 350px;
+	padding: 80px 0px 0px 350px;
 }
 .modimg { 
 	float: right;
-	padding: 97px 50px 0px 0px;
+	padding: 5px 50px 0px 0px;
 }
 .skimg { 
 	float: right;
-	padding: 80px 200px 0px 0px;
+	padding: 80px 55px 0px 0px;
+}
+
+.achimg { 
+	float: right;
+	padding: 200px 50px 0px 0px;
 }
