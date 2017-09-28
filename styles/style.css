@@ -90,15 +90,13 @@ p{
 .work {
 	background-image: url("img/worksbg.png");
 }
-.photos {
-	margin-left: 600px;
-	margin-right: 100px;
-	padding: 100px 0px 70px 0px;
+.fling-nislide.photos {
+	padding: 0px 0px 0px 600px;
 }
 .fling-minislide {
-	width: 500px;
-	height: 500px;
-	padding: 100px 100px 0px 0px;
+	width: 350px;
+	height: 350px;
+	padding: 0px 100px 0px 0px;
 	overflow: hidden;
 	position: relative;
 }
@@ -107,7 +105,7 @@ p{
 	animation: fling-minislide 40s infinite;
 	opacity: 0;
 	width: 100%;
-	height: auto;
+	height: 100%;
 }
 @keyframes fling-minislide{
 	25%{opacity:1;} 40%{opacity:0;}
