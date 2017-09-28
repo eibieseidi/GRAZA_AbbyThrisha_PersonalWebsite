@@ -103,15 +103,15 @@ p{
 	float: right;
 	width: 400px;
 	height: 400px;
-	padding: 50px 300px 0px 0px;
+	padding: 50px 350px 0px 0px;
 	overflow: hidden;
 	position: relative;
 }
 .fling-minislide img{
-	position: relative;
+	position: absolute;
 	animation: fling-minislide 40s infinite;
 	opacity: 0;
-	width: 100%;
+	width: 70%;
 	height: 100%;
 }
 @keyframes fling-minislide{
