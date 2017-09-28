@@ -124,3 +124,9 @@ p{
 .fling-minislide img:nth-child(1){
 	animation-delay:15s;
 }
+.p1yeah {
+	background-image: url("img/p1.png");
+}
+.p1yeah a{
+	padding-left: 50px 50px 0px 0px;
+}
