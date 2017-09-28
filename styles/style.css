@@ -1,4 +1,8 @@
-
+*{
+    margin: 0px auto;
+    padding: 0px;
+   
+}
 a{
     padding: 10px 0px 0px 0px;
     text-decoration: none;
@@ -49,7 +53,7 @@ h2 {
 
 h3 {
 	font-size: 24px;
-	padding: 5px 0px 0px 0px;
+	padding: 50px 0px 0px 0px;
 	color: white;
 	margin-left: 400px;
 	font-family: KRISTEN ITC;
@@ -125,7 +129,11 @@ p{
 .fling-minislide img:nth-child(1){
 	animation-delay:15s;
 }
-.p1yeah {
-	background-image: url("img/p1.png");
-	height: 60%;
+#footer {
+	background-image: url("img/footer.png");
+	height: 45%;
 }
+#footer .p {
+	padding-right: 400px;
+}
+
