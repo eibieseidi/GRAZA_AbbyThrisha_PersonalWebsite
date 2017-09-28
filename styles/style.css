@@ -87,3 +87,11 @@ p{
 	float: right;
 	padding: 200px 50px 0px 0px;
 }
+.work {
+	background-image: url("img/worksbg.png");
+}
+.photos {
+	margin-left: 500px;
+	margin-right: 100px;
+	padding-top: 100px;
+}
